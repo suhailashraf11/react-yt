@@ -1,0 +1,27 @@
+*{
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+.card{
+  background-color: rgb(134, 28, 134);
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.nav{
+  background-color: darkgoldenrod;
+  padding: 20x;
+  color: aliceblue;
+}
