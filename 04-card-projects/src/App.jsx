@@ -121,12 +121,8 @@ const App = () => {
                      tag2= {elem.tag2}
                      pay= {elem.pay}
                      location= {elem.location}
-              
-
                      
-                     
-                     
-                     />
+            />
         </div>
 
         })
