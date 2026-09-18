@@ -1,0 +1,24 @@
+.header{
+  background-color: rgb(255, 217, 0);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 5px;
+}
+
+
+
+.btn{
+  background-color: rgb(52, 147, 255);
+}
+
+.logo{
+  background-color: rgb(233, 24, 24);
+  padding: 10px;
+  border-radius: 0px 20px ;
+  font-size: large;
+  text-decoration: underline;
+  
+
+}
